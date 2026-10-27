@@ -8,8 +8,14 @@
   "repository": "https://github.com/argusailabs-core/ali-eval",
   "task_count": 16,
   "synthetic_source_record_count": 42,
-  "payload_file_count": 20,
+  "payload_file_count": 21,
   "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "6feaded4e28ea86e001a6751b4e3d960e8b7c31b9616ff9936b79297086e809b",
+      "bytes": 23,
+      "license": "CC-BY-4.0"
+    },
     {
       "path": ".zenodo.json",
       "sha256": "310b31fe248ffd583518a99d86151c3c24bdde6551297265a451d94c82d9e42a",
