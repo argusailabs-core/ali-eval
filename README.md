@@ -75,5 +75,6 @@ Suggested attribution:
 
 ## Maintainer
 
-Argus AI Labs LLC  
+Argus AI Labs LLC
+
 Research lead: Raj Brar

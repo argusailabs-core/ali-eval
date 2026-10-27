@@ -48,8 +48,8 @@
     },
     {
       "path": "LICENSES/CC-BY-4.0.txt",
-      "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
-      "bytes": 18657,
+      "sha256": "9e5f1b3c610b9c2da5c313bf81d577a7d1acec686bdb0384edefa6df0f90cd94",
+      "bytes": 18656,
       "license": "CC-BY-4.0"
     },
     {
@@ -66,8 +66,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "00593d80c0a998a442b5be05044d570a87ad7b50a61c1747fc9159db6707410b",
-      "bytes": 3918,
+      "sha256": "2af0dd36e6724a072d90fd180236d234cc2d6546deb02221b3770b5be34251ae",
+      "bytes": 3917,
       "license": "CC-BY-4.0"
     },
     {
