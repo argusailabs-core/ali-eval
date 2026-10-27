@@ -4,6 +4,7 @@ title: "ALI-EVAL: A Source-Bounded Evaluation Instrument for Land-Intelligence R
 type: software
 version: 0.2.0
 date-released: 2026-10-27
+doi: 10.5281/zenodo.23701946
 authors:
   - family-names: Brar
     given-names: Raj

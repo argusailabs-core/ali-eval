@@ -1,5 +1,7 @@
 # ALI-EVAL v0.2
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23701946.svg)](https://doi.org/10.5281/zenodo.23701946)
+
 ALI-EVAL is a source-bounded evaluation instrument for testing whether a land-intelligence answer preserves supplied site, spatial, temporal, proposal, pathway, authority, evidence, uncertainty, and refusal information.
 
 It evaluates **representation and evidence handling**. It does not establish legal correctness, professional-planning accuracy, development feasibility, entitlement, or the performance of any commercial product.
@@ -60,7 +62,7 @@ It does not include any production system, proprietary implementation, real muni
 
 ## Citation
 
-Use the repository's `CITATION.cff`. A version-specific DOI will be added when this release is archived.
+Use the repository's `CITATION.cff`. Cite version 0.2.0 with DOI [10.5281/zenodo.23701946](https://doi.org/10.5281/zenodo.23701946). The all-versions concept DOI is [10.5281/zenodo.23701945](https://doi.org/10.5281/zenodo.23701945).
 
 ## Licences
 

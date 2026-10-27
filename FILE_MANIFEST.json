@@ -30,8 +30,8 @@
     },
     {
       "path": "CITATION.cff",
-      "sha256": "2b87b982b79c0b65efc0f0e939c0b2773f0cb64de60c0f6100dff07d5f6d6b78",
-      "bytes": 563,
+      "sha256": "75080f6a11f616019e5d1ec427aeb08ea998fd89c297207dd33b68e8165fcbb7",
+      "bytes": 592,
       "license": "CC-BY-4.0"
     },
     {
@@ -66,8 +66,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "2af0dd36e6724a072d90fd180236d234cc2d6546deb02221b3770b5be34251ae",
-      "bytes": 3917,
+      "sha256": "a1ac36a175854214a87bac441acc53a5fecbcf495354ca3e25f4eceb127a7d5d",
+      "bytes": 4154,
       "license": "CC-BY-4.0"
     },
     {
