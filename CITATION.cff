@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use ALI-EVAL, please cite this software package."
+title: "ALI-EVAL: A Source-Bounded Evaluation Instrument for Land-Intelligence Representations"
+type: software
+version: 0.2.0
+date-released: 2026-10-27
+authors:
+  - family-names: Brar
+    given-names: Raj
+    affiliation: Argus AI Labs LLC
+repository-code: "https://github.com/argusailabs-core/ali-eval"
+url: "https://github.com/argusailabs-core/ali-eval"
+keywords:
+  - land intelligence
+  - geospatial evaluation
+  - zoning
+  - evidence handling
+  - uncertainty
+  - benchmark

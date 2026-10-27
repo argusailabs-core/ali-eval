@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ALI representation and evidence output record",
+  "type": "object",
+  "required": [
+    "site_members",
+    "dates",
+    "proposal_assumptions",
+    "spatial_and_regulatory_observations",
+    "source_citations",
+    "evidence_status",
+    "conclusion",
+    "limitations_and_missing_evidence"
+  ],
+  "additionalProperties": true,
+  "properties": {
+    "site_members": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "dates": {
+      "type": "object"
+    },
+    "proposal_assumptions": {
+      "type": "array",
+      "items": {
+        "type": [
+          "string",
+          "object"
+        ]
+      }
+    },
+    "spatial_and_regulatory_observations": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "source_citations": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "evidence_status": {
+      "type": "string"
+    },
+    "conclusion": {
+      "type": "string"
+    },
+    "limitations_and_missing_evidence": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

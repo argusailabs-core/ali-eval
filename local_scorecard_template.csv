@@ -1,0 +1,12 @@
+case_id,criterion,score,reviewer_note
+LOCAL-CASE-001,D1,PENDING,pending review
+LOCAL-CASE-001,D2,NA,not applicable
+LOCAL-CASE-001,D3,PENDING,pending review
+LOCAL-CASE-001,D4,PENDING,pending review
+LOCAL-CASE-001,D5,PENDING,pending review
+LOCAL-CASE-001,D6,PENDING,pending review
+LOCAL-CASE-001,D7,PENDING,pending review
+LOCAL-CASE-001,S1,PENDING,pending review
+LOCAL-CASE-001,S2,PENDING,pending review
+LOCAL-CASE-001,U1,PENDING,pending review
+LOCAL-CASE-001,U2,PENDING,pending review

@@ -1,0 +1,19 @@
+{
+  "classification": "PRIVATE_SCORING_COMPANION_DO_NOT_GIVE_TO_RUNNERS",
+  "instrument": "ALI-EVAL",
+  "version": "0.2",
+  "case_set_id": "REPLACE",
+  "cases": [
+    {
+      "case_id": "REPLACE",
+      "allowed_source_facts": [
+        {"source_id": "REPLACE", "required_fact": "REPLACE"}
+      ],
+      "expected_evidence_state": "REPLACE",
+      "required_qualification_or_refusal": "REPLACE",
+      "criterion_notes": {
+        "D1": "REPLACE_OR_REMOVE_IF_INAPPLICABLE"
+      }
+    }
+  ]
+}

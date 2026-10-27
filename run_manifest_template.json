@@ -1,0 +1,21 @@
+{
+  "instrument": "ALI-EVAL",
+  "version": "0.2",
+  "run_id": "REPLACE_WITH_UNIQUE_RUN_ID",
+  "workflow": {
+    "name": "REPLACE",
+    "version": "REPLACE",
+    "implementation_receipt": "REPLACE_WITH_HASH_OR_IMMUTABLE_REFERENCE"
+  },
+  "package": {
+    "sha256sums_file": "SHA256SUMS.txt",
+    "verified_before_run": false,
+    "hash_set_identifier_sha256": "REPLACE_WITH_SHA256_OF_SHA256SUMS_TXT"
+  },
+  "runner_received": "task_id and input only",
+  "output_directory": "outputs/",
+  "output_hash_manifest": "REPLACE_WITH_PATH",
+  "output_hash_manifest_sha256": "REPLACE_AFTER_SEALING",
+  "outputs_marked_read_only": false,
+  "sealed_utc": "REPLACE_AFTER_SEALING"
+}

@@ -1,0 +1,23 @@
+{
+  "instrument": "ALI representation and evidence evaluation — local case set",
+  "version": "LOCAL-VERSION",
+  "case_set_id": "LOCAL-CASE-SET-ID",
+  "cases": [
+    {
+      "case_id": "LOCAL-CASE-001",
+      "stratum": "local-stratum",
+      "criteria": [
+        "D1",
+        "D3",
+        "D4",
+        "D5",
+        "D6",
+        "D7",
+        "S1",
+        "S2",
+        "U1",
+        "U2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1488 @@
+{
+  "version": "0.2.0",
+  "record_count": 42,
+  "release": true,
+  "licence_granted": true,
+  "records": [
+    {
+      "content": {
+        "member_ids": [
+          "SYN-ASM-0-1",
+          "SYN-ASM-0-2"
+        ],
+        "ownership_evidence": null,
+        "site_control_evidence": null,
+        "site_id": "SYN-ASSEMBLY-0"
+      },
+      "kind": "synthetic_site_record",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-assembly-0-facts",
+      "source_sha256": "0a62b10be27e356ebefde1d5aa67a3185b3939ab92534e53e0f8ebad4c6c614f",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "crs": "SYNTHETIC_LOCAL_METRE_GRID_V1",
+        "declared_site_id": "SYN-ASSEMBLY-0",
+        "members": [
+          {
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    0,
+                    0
+                  ],
+                  [
+                    100,
+                    0
+                  ],
+                  [
+                    100,
+                    100
+                  ],
+                  [
+                    0,
+                    100
+                  ],
+                  [
+                    0,
+                    0
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "member_id": "SYN-ASM-0-1"
+          },
+          {
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    100,
+                    0
+                  ],
+                  [
+                    200,
+                    0
+                  ],
+                  [
+                    200,
+                    100
+                  ],
+                  [
+                    100,
+                    100
+                  ],
+                  [
+                    100,
+                    0
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "member_id": "SYN-ASM-0-2"
+          }
+        ]
+      },
+      "kind": "synthetic_geojson",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-assembly-0-geometry",
+      "source_sha256": "d42accc228a2b46eddbb4aa533ea9c7d514a0f1a6be72f9ae33125c157fb2491",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "member_ids": [
+          "SYN-ASM-1-1",
+          "SYN-ASM-1-2",
+          "SYN-ASM-1-3"
+        ],
+        "ownership_evidence": null,
+        "site_control_evidence": null,
+        "site_id": "SYN-ASSEMBLY-1"
+      },
+      "kind": "synthetic_site_record",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-assembly-1-facts",
+      "source_sha256": "723bee8d0ae0194e51344b4d32a6a6ab89d0645afba36b9a4489281d1e57dcce",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "crs": "SYNTHETIC_LOCAL_METRE_GRID_V1",
+        "declared_site_id": "SYN-ASSEMBLY-1",
+        "members": [
+          {
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    0,
+                    0
+                  ],
+                  [
+                    100,
+                    0
+                  ],
+                  [
+                    100,
+                    100
+                  ],
+                  [
+                    0,
+                    100
+                  ],
+                  [
+                    0,
+                    0
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "member_id": "SYN-ASM-1-1"
+          },
+          {
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    100,
+                    0
+                  ],
+                  [
+                    200,
+                    0
+                  ],
+                  [
+                    200,
+                    100
+                  ],
+                  [
+                    100,
+                    100
+                  ],
+                  [
+                    100,
+                    0
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "member_id": "SYN-ASM-1-2"
+          },
+          {
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    200,
+                    0
+                  ],
+                  [
+                    300,
+                    0
+                  ],
+                  [
+                    300,
+                    100
+                  ],
+                  [
+                    200,
+                    100
+                  ],
+                  [
+                    200,
+                    0
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "member_id": "SYN-ASM-1-3"
+          }
+        ]
+      },
+      "kind": "synthetic_geojson",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-assembly-1-geometry",
+      "source_sha256": "8cc201aca5142f0fe9c4335ba748af2af3cf87e1196cb010974ba3b5713bd67c",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "crs": "SYNTHETIC_LOCAL_METRE_GRID_V1",
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                0,
+                0
+              ],
+              [
+                100,
+                0
+              ],
+              [
+                100,
+                100
+              ],
+              [
+                0,
+                100
+              ],
+              [
+                0,
+                0
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "site_id": "SYN-minor-0"
+      },
+      "kind": "synthetic_geojson",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-minor-0-parcel",
+      "source_sha256": "a97676f7d22ade08e6ffe3cfd1a6e4949ca56cba87de0019facaf724a9c327de",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "primary_zone": "ZA",
+        "site_id": "SYN-minor-0",
+        "snapshot_date": "2030-06-01"
+      },
+      "kind": "synthetic_scalar_record",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-minor-0-scalar",
+      "source_sha256": "7a5344ed6a81fb0e93fb7f90bf9bf62289cb0ace8474acbfe519beecf5d33b6b",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "crs": "SYNTHETIC_LOCAL_METRE_GRID_V1",
+        "features": [
+          {
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    0,
+                    0
+                  ],
+                  [
+                    97.0,
+                    0
+                  ],
+                  [
+                    97.0,
+                    100
+                  ],
+                  [
+                    0,
+                    100
+                  ],
+                  [
+                    0,
+                    0
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "zone_code": "ZA"
+          },
+          {
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    97.0,
+                    0
+                  ],
+                  [
+                    100,
+                    0
+                  ],
+                  [
+                    100,
+                    100
+                  ],
+                  [
+                    97.0,
+                    100
+                  ],
+                  [
+                    97.0,
+                    0
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "zone_code": "ZB"
+          }
+        ]
+      },
+      "kind": "synthetic_geojson",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-minor-0-zones",
+      "source_sha256": "3e37763c19ae2ad88d501067f2d75820b0c58403dfa3f8410f19d7d42706dfd5",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "crs": "SYNTHETIC_LOCAL_METRE_GRID_V1",
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                0,
+                0
+              ],
+              [
+                100,
+                0
+              ],
+              [
+                100,
+                100
+              ],
+              [
+                0,
+                100
+              ],
+              [
+                0,
+                0
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "site_id": "SYN-minor-1"
+      },
+      "kind": "synthetic_geojson",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-minor-1-parcel",
+      "source_sha256": "66dde228c22337e6939b46ec01c66766941163fc0e5edea743e451fb5c0b10bc",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "primary_zone": "ZA",
+        "site_id": "SYN-minor-1",
+        "snapshot_date": "2030-06-01"
+      },
+      "kind": "synthetic_scalar_record",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-minor-1-scalar",
+      "source_sha256": "8a3a1c0c12ad7129efcbb5d90750f61e80f52294f1205a5ae06d4996f44a98d6",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "crs": "SYNTHETIC_LOCAL_METRE_GRID_V1",
+        "features": [
+          {
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    0,
+                    0
+                  ],
+                  [
+                    94.0,
+                    0
+                  ],
+                  [
+                    94.0,
+                    100
+                  ],
+                  [
+                    0,
+                    100
+                  ],
+                  [
+                    0,
+                    0
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "zone_code": "ZA"
+          },
+          {
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    94.0,
+                    0
+                  ],
+                  [
+                    100,
+                    0
+                  ],
+                  [
+                    100,
+                    100
+                  ],
+                  [
+                    94.0,
+                    100
+                  ],
+                  [
+                    94.0,
+                    0
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "zone_code": "ZB"
+          }
+        ]
+      },
+      "kind": "synthetic_geojson",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-minor-1-zones",
+      "source_sha256": "6d4a11a782086b025173cebe4c6f8b3752dfebd8d501bb49ff56ba85083f6433",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "primary_zone": "ZA",
+        "site_id": "SYN-MISS-0",
+        "snapshot_date": "2030-06-01"
+      },
+      "kind": "synthetic_scalar_record",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-missing-0-record",
+      "source_sha256": "e4b22bdbc6fd43b83802c16324aaa176d9261620431e108b43a8fb1621868b51",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "requested_conclusion": "Confirm registered title and unconditional development viability",
+        "required_evidence": "registered title",
+        "supplied": false
+      },
+      "kind": "synthetic_task_request",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-missing-0-request",
+      "source_sha256": "d17a0a8d9c3b9ab737a750a429ad4c9ea2ad2d980840f859b51a0ccfbc04616e",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "primary_zone": "ZA",
+        "site_id": "SYN-MISS-1",
+        "snapshot_date": "2030-06-01"
+      },
+      "kind": "synthetic_scalar_record",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-missing-1-record",
+      "source_sha256": "372ab1ce3cd19fbbd43c9bb1fe11f482dc06f376ab47aed1a31a24e9fcefa667",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "requested_conclusion": "Confirm surveyed boundary and unconditional development viability",
+        "required_evidence": "surveyed boundary",
+        "supplied": false
+      },
+      "kind": "synthetic_task_request",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-missing-1-request",
+      "source_sha256": "25d49d6202cf1f27fdc7e067c1bf9e72f2f9b964cfc1a36e8a52825a2c6bc392",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "crs": "SYNTHETIC_LOCAL_METRE_GRID_V1",
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                0,
+                0
+              ],
+              [
+                100,
+                0
+              ],
+              [
+                100,
+                100
+              ],
+              [
+                0,
+                100
+              ],
+              [
+                0,
+                0
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "site_id": "SYN-ordinary_single_zone-0"
+      },
+      "kind": "synthetic_geojson",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-ordinary_single_zone-0-parcel",
+      "source_sha256": "4bf7eb6c5cd4c23d358cfaca6abe18cee9d9939a41e2e016f5ec689fd65f4496",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "primary_zone": "ZA",
+        "site_id": "SYN-ordinary_single_zone-0",
+        "snapshot_date": "2030-06-01"
+      },
+      "kind": "synthetic_scalar_record",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-ordinary_single_zone-0-scalar",
+      "source_sha256": "1134d1cf0981e6b97c934f1f589380a0e86e77a561b6d684a1ba1c935f65c22a",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "crs": "SYNTHETIC_LOCAL_METRE_GRID_V1",
+        "features": [
+          {
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    0,
+                    0
+                  ],
+                  [
+                    100,
+                    0
+                  ],
+                  [
+                    100,
+                    100
+                  ],
+                  [
+                    0,
+                    100
+                  ],
+                  [
+                    0,
+                    0
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "zone_code": "ZA"
+          }
+        ]
+      },
+      "kind": "synthetic_geojson",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-ordinary_single_zone-0-zones",
+      "source_sha256": "ba9bd1cc9d6f462478a27af72a87899b58a399dd5433ab6435cd1990e93f5dd7",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "crs": "SYNTHETIC_LOCAL_METRE_GRID_V1",
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                0,
+                0
+              ],
+              [
+                100,
+                0
+              ],
+              [
+                100,
+                100
+              ],
+              [
+                0,
+                100
+              ],
+              [
+                0,
+                0
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "site_id": "SYN-ordinary_single_zone-1"
+      },
+      "kind": "synthetic_geojson",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-ordinary_single_zone-1-parcel",
+      "source_sha256": "0504998dc5bb70069fc51ea32f1c199e0cf246f359f547415ef07aadd9c80fbe",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "primary_zone": "ZA",
+        "site_id": "SYN-ordinary_single_zone-1",
+        "snapshot_date": "2030-06-01"
+      },
+      "kind": "synthetic_scalar_record",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-ordinary_single_zone-1-scalar",
+      "source_sha256": "fe697cce8d5016062aa4749c60f927e531d7d9395fe596117b05d1e50d2f33d5",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "crs": "SYNTHETIC_LOCAL_METRE_GRID_V1",
+        "features": [
+          {
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    0,
+                    0
+                  ],
+                  [
+                    100,
+                    0
+                  ],
+                  [
+                    100,
+                    100
+                  ],
+                  [
+                    0,
+                    100
+                  ],
+                  [
+                    0,
+                    0
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "zone_code": "ZA"
+          }
+        ]
+      },
+      "kind": "synthetic_geojson",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-ordinary_single_zone-1-zones",
+      "source_sha256": "1d06cb3b60b439a95160af712ef9cb91cb228bd912868f1cf18e151366a721d0",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "crs": "SYNTHETIC_LOCAL_METRE_GRID_V1",
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                0,
+                0
+              ],
+              [
+                100,
+                0
+              ],
+              [
+                100,
+                100
+              ],
+              [
+                0,
+                100
+              ],
+              [
+                0,
+                0
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "site_id": "SYN-sliver-0"
+      },
+      "kind": "synthetic_geojson",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-sliver-0-parcel",
+      "source_sha256": "6e3ac20d1fa5745865bc64d60283e9d9709a236719a83fae0f0ab4722399e711",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "primary_zone": "ZA",
+        "site_id": "SYN-sliver-0",
+        "snapshot_date": "2030-06-01"
+      },
+      "kind": "synthetic_scalar_record",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-sliver-0-scalar",
+      "source_sha256": "7a965aa8adc3c74aee1bdc62b18b8a43c6afc00fcf3c866b7b54c4addb57e001",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "crs": "SYNTHETIC_LOCAL_METRE_GRID_V1",
+        "features": [
+          {
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    0,
+                    0
+                  ],
+                  [
+                    99.7,
+                    0
+                  ],
+                  [
+                    99.7,
+                    100
+                  ],
+                  [
+                    0,
+                    100
+                  ],
+                  [
+                    0,
+                    0
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "zone_code": "ZA"
+          },
+          {
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    99.7,
+                    0
+                  ],
+                  [
+                    100,
+                    0
+                  ],
+                  [
+                    100,
+                    100
+                  ],
+                  [
+                    99.7,
+                    100
+                  ],
+                  [
+                    99.7,
+                    0
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "zone_code": "ZB"
+          }
+        ]
+      },
+      "kind": "synthetic_geojson",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-sliver-0-zones",
+      "source_sha256": "09da4d188ff29b5313cdaec35e91e2524dc779a5adb20fbe1d277735598e9937",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "crs": "SYNTHETIC_LOCAL_METRE_GRID_V1",
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                0,
+                0
+              ],
+              [
+                100,
+                0
+              ],
+              [
+                100,
+                100
+              ],
+              [
+                0,
+                100
+              ],
+              [
+                0,
+                0
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "site_id": "SYN-sliver-1"
+      },
+      "kind": "synthetic_geojson",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-sliver-1-parcel",
+      "source_sha256": "79d35d64b79cb57c40bdfc657f551f0eb6fe3ccb54400cc883d5cbb10319cd0c",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "primary_zone": "ZA",
+        "site_id": "SYN-sliver-1",
+        "snapshot_date": "2030-06-01"
+      },
+      "kind": "synthetic_scalar_record",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-sliver-1-scalar",
+      "source_sha256": "1b5d5702020c43c0db2ee452d5d9dc4f0ecf565e665d0f3a1494fe2562a136be",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "crs": "SYNTHETIC_LOCAL_METRE_GRID_V1",
+        "features": [
+          {
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    0,
+                    0
+                  ],
+                  [
+                    99.4,
+                    0
+                  ],
+                  [
+                    99.4,
+                    100
+                  ],
+                  [
+                    0,
+                    100
+                  ],
+                  [
+                    0,
+                    0
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "zone_code": "ZA"
+          },
+          {
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    99.4,
+                    0
+                  ],
+                  [
+                    100,
+                    0
+                  ],
+                  [
+                    100,
+                    100
+                  ],
+                  [
+                    99.4,
+                    100
+                  ],
+                  [
+                    99.4,
+                    0
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "zone_code": "ZB"
+          }
+        ]
+      },
+      "kind": "synthetic_geojson",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-sliver-1-zones",
+      "source_sha256": "2fc490119827b7b5051bbc3c5478740bdfca1c83187b2d3bc840a37b0b7a3f64",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "crs": "SYNTHETIC_LOCAL_METRE_GRID_V1",
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                0,
+                0
+              ],
+              [
+                100,
+                0
+              ],
+              [
+                100,
+                100
+              ],
+              [
+                0,
+                100
+              ],
+              [
+                0,
+                0
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "site_id": "SYN-substantial-0"
+      },
+      "kind": "synthetic_geojson",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-substantial-0-parcel",
+      "source_sha256": "791ba76c8b06ff70c2f0d88614f7878992a5be8ca4ac11bc9db7143b02db537d",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "primary_zone": "ZA",
+        "site_id": "SYN-substantial-0",
+        "snapshot_date": "2030-06-01"
+      },
+      "kind": "synthetic_scalar_record",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-substantial-0-scalar",
+      "source_sha256": "4d91ec52968712f3e2328c0e6305809f9b3c27017ee549905732c09fd27d4f45",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "crs": "SYNTHETIC_LOCAL_METRE_GRID_V1",
+        "features": [
+          {
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    0,
+                    0
+                  ],
+                  [
+                    58.0,
+                    0
+                  ],
+                  [
+                    58.0,
+                    100
+                  ],
+                  [
+                    0,
+                    100
+                  ],
+                  [
+                    0,
+                    0
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "zone_code": "ZA"
+          },
+          {
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    58.0,
+                    0
+                  ],
+                  [
+                    100,
+                    0
+                  ],
+                  [
+                    100,
+                    100
+                  ],
+                  [
+                    58.0,
+                    100
+                  ],
+                  [
+                    58.0,
+                    0
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "zone_code": "ZB"
+          }
+        ]
+      },
+      "kind": "synthetic_geojson",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-substantial-0-zones",
+      "source_sha256": "0c37ad51af779b2fad4c3098a4111587dd30de9e6e1356893a9c8954a837214b",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "crs": "SYNTHETIC_LOCAL_METRE_GRID_V1",
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                0,
+                0
+              ],
+              [
+                100,
+                0
+              ],
+              [
+                100,
+                100
+              ],
+              [
+                0,
+                100
+              ],
+              [
+                0,
+                0
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "site_id": "SYN-substantial-1"
+      },
+      "kind": "synthetic_geojson",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-substantial-1-parcel",
+      "source_sha256": "eac98c4ea139685e2a6ca30b5ec8e881e6b12996c549b4a1952c3c20f5944bdb",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "primary_zone": "ZA",
+        "site_id": "SYN-substantial-1",
+        "snapshot_date": "2030-06-01"
+      },
+      "kind": "synthetic_scalar_record",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-substantial-1-scalar",
+      "source_sha256": "5efc17f10eff6512555863f03bfda65ffe08a403c1628e8e478321f9c01cc79f",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "crs": "SYNTHETIC_LOCAL_METRE_GRID_V1",
+        "features": [
+          {
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    0,
+                    0
+                  ],
+                  [
+                    76.0,
+                    0
+                  ],
+                  [
+                    76.0,
+                    100
+                  ],
+                  [
+                    0,
+                    100
+                  ],
+                  [
+                    0,
+                    0
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "zone_code": "ZA"
+          },
+          {
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    76.0,
+                    0
+                  ],
+                  [
+                    100,
+                    0
+                  ],
+                  [
+                    100,
+                    100
+                  ],
+                  [
+                    76.0,
+                    100
+                  ],
+                  [
+                    76.0,
+                    0
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "zone_code": "ZB"
+          }
+        ]
+      },
+      "kind": "synthetic_geojson",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-substantial-1-zones",
+      "source_sha256": "29e8a216559ce95111b94a18274129bc745c9142f5b7c6a98b58d4474cbcc4ec",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "adoption_date": "2030-02-01",
+        "express_effective_date": "2030-02-01",
+        "instrument_id": "SYN-BYLAW-100",
+        "text_summary": "Synthetic amendment changes Zone ZA naming only."
+      },
+      "kind": "synthetic_instrument",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-temporal-0-instrument",
+      "source_sha256": "3968bf5b8e4c2e824d5b3c0325ecb3e7f58e53653b0a7a5047f3aeb7957ac589",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "instrument_id": "SYN-BYLAW-100",
+        "observed_date": "2030-02-03",
+        "status": "recorded"
+      },
+      "kind": "synthetic_registry_record",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-temporal-0-observation",
+      "source_sha256": "cd0635667d139d44c0f7e466ed1848bf8391fc69af9f5fc391dfedf4536589a0",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "adoption_date": "2030-03-10",
+        "express_effective_date": "2030-04-01",
+        "instrument_id": "SYN-BYLAW-101",
+        "text_summary": "Synthetic amendment changes Zone ZA naming only."
+      },
+      "kind": "synthetic_instrument",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-temporal-1-instrument",
+      "source_sha256": "9676006a06cacf7ab9424db1b797fb0e7a29c1c2780e782df471167cc3679a4c",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "instrument_id": "SYN-BYLAW-101",
+        "observed_date": "2030-04-02",
+        "status": "recorded"
+      },
+      "kind": "synthetic_registry_record",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-temporal-1-observation",
+      "source_sha256": "a788d93f04b16090526839cae12ceb90725bb92c6fee5e0f0f83a65a197db436",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "crs": "SYNTHETIC_LOCAL_METRE_GRID_V1",
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                0,
+                0
+              ],
+              [
+                100,
+                0
+              ],
+              [
+                100,
+                100
+              ],
+              [
+                0,
+                100
+              ],
+              [
+                0,
+                0
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "site_id": "SYN-TOA-0",
+        "tier": "T2"
+      },
+      "kind": "synthetic_geojson",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-toa-0-map",
+      "source_sha256": "01049299afc85b78adf512b3abfe093672cf043dd2e309c19b8ad95b56b40d06",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "pathway": null,
+        "proposal": {
+          "height": "10 storeys",
+          "use": "mixed residential"
+        },
+        "site_id": "SYN-TOA-0"
+      },
+      "kind": "synthetic_proposal_record",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-toa-0-proposal",
+      "source_sha256": "3692d320d448eeebda71d3dd4f51fc6ca45dfdb74b5b5f4af8a3cdb42ab488e7",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "conditions": [
+          "applies only when proposal and statutory applicability facts are established"
+        ],
+        "effective_date": "2030-01-01",
+        "instrument_id": "SYN-TOA-RULE-1",
+        "minimum_density": "4 FAR",
+        "minimum_height": "12 storeys",
+        "tier": "T2"
+      },
+      "kind": "synthetic_policy_extract",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-toa-0-rule",
+      "source_sha256": "197e2a1a16836f2583e92d632d7defe231d6e7bc0e93d2ac34f864f1354a9fc8",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "crs": "SYNTHETIC_LOCAL_METRE_GRID_V1",
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                0,
+                0
+              ],
+              [
+                100,
+                0
+              ],
+              [
+                100,
+                100
+              ],
+              [
+                0,
+                100
+              ],
+              [
+                0,
+                0
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "site_id": "SYN-TOA-1",
+        "tier": "T2"
+      },
+      "kind": "synthetic_geojson",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-toa-1-map",
+      "source_sha256": "d95dca96d35971f957c1699e399b6c33f1f7521733fb0b3548210b5d47b67527",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "pathway": null,
+        "proposal": null,
+        "site_id": "SYN-TOA-1"
+      },
+      "kind": "synthetic_proposal_record",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-toa-1-proposal",
+      "source_sha256": "7f7a3a9ead57ee5eea6e60d8855b00bcaa326057247d83710a5e56764fb0646e",
+      "version": "1.0"
+    },
+    {
+      "content": {
+        "conditions": [
+          "applies only when proposal and statutory applicability facts are established"
+        ],
+        "effective_date": "2030-01-01",
+        "instrument_id": "SYN-TOA-RULE-1",
+        "minimum_density": "4 FAR",
+        "minimum_height": "12 storeys",
+        "tier": "T2"
+      },
+      "kind": "synthetic_policy_extract",
+      "observation_date": "2026-10-23",
+      "rights": "PROPOSED CC BY 4.0 for the exact synthetic text/data package, subject to Raj Brar's written approval; no licence is granted by this candidate.",
+      "source_id": "SRC-toa-1-rule",
+      "source_sha256": "a153ceddf9e3eceee02ea69bd2aee787382c16743fd5ac4bf3aa0cd432b2b587",
+      "version": "1.0"
+    }
+  ],
+  "task_source_map": {
+    "P3-ORDINARY_SINGLE_ZONE-00": [
+      "SRC-ordinary_single_zone-0-parcel",
+      "SRC-ordinary_single_zone-0-zones",
+      "SRC-ordinary_single_zone-0-scalar"
+    ],
+    "P3-ORDINARY_SINGLE_ZONE-01": [
+      "SRC-ordinary_single_zone-1-parcel",
+      "SRC-ordinary_single_zone-1-zones",
+      "SRC-ordinary_single_zone-1-scalar"
+    ],
+    "P3-SUBSTANTIAL-00": [
+      "SRC-substantial-0-parcel",
+      "SRC-substantial-0-zones",
+      "SRC-substantial-0-scalar"
+    ],
+    "P3-SUBSTANTIAL-01": [
+      "SRC-substantial-1-parcel",
+      "SRC-substantial-1-zones",
+      "SRC-substantial-1-scalar"
+    ],
+    "P3-MINOR-00": [
+      "SRC-minor-0-parcel",
+      "SRC-minor-0-zones",
+      "SRC-minor-0-scalar"
+    ],
+    "P3-MINOR-01": [
+      "SRC-minor-1-parcel",
+      "SRC-minor-1-zones",
+      "SRC-minor-1-scalar"
+    ],
+    "P3-SLIVER-00": [
+      "SRC-sliver-0-parcel",
+      "SRC-sliver-0-zones",
+      "SRC-sliver-0-scalar"
+    ],
+    "P3-SLIVER-01": [
+      "SRC-sliver-1-parcel",
+      "SRC-sliver-1-zones",
+      "SRC-sliver-1-scalar"
+    ],
+    "P3-ASSEMBLY-00": [
+      "SRC-assembly-0-geometry",
+      "SRC-assembly-0-facts"
+    ],
+    "P3-ASSEMBLY-01": [
+      "SRC-assembly-1-geometry",
+      "SRC-assembly-1-facts"
+    ],
+    "P3-TEMPORAL-00": [
+      "SRC-temporal-0-instrument",
+      "SRC-temporal-0-observation"
+    ],
+    "P3-TEMPORAL-01": [
+      "SRC-temporal-1-instrument",
+      "SRC-temporal-1-observation"
+    ],
+    "P3-TOA-00": [
+      "SRC-toa-0-map",
+      "SRC-toa-0-rule",
+      "SRC-toa-0-proposal"
+    ],
+    "P3-TOA-01": [
+      "SRC-toa-1-map",
+      "SRC-toa-1-rule",
+      "SRC-toa-1-proposal"
+    ],
+    "P3-MISSING_EVIDENCE-00": [
+      "SRC-missing-0-record",
+      "SRC-missing-0-request"
+    ],
+    "P3-MISSING_EVIDENCE-01": [
+      "SRC-missing-1-record",
+      "SRC-missing-1-request"
+    ]
+  }
+}
